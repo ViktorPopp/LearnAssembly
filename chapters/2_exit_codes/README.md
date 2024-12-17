@@ -69,3 +69,6 @@ The Executable and Linkable Format (ELF) is a file format used for executables, 
 2. **Creates Segments:** The loader creates segments in memory according to the program header table.
 3. **Loads Sections:** The loader copies the contents of the .text, .data, and other sections into the appropriate memory segments.
 4. **Starts Execution:** The loader jumps to the entry point address specified in the header to start executing the code.
+
+## Challenge
+Try setting the error code to `8` instead.
