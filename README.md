@@ -3,8 +3,8 @@ In this tutorial will you learn how to write 64-bit assembly. Most of what's lea
 
 ## Chapters
 1. [Installation](chapters/1_installation/README.md)
-2. The `exit` system call
-3. Hello world
+2. [The `exit` system call](chapters/2_exit_codes/README.md)
+3. [Hello world](chapters/3_hello_world/README.md)
 4. Calling from C
 5. Registers
 6. Machine code
