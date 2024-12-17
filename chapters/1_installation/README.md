@@ -22,3 +22,9 @@ This tutorial is Linux only and is not compatible with Windows. I recommend usin
 `objdump` is a command-line program for displaying various information about object files on Unix-like operating systems. It can be used as a disassembler to view an executable in assembly form. It is part of the GNU Binutils for fine-grained control over executables and other binary data. objdump allows you to analyze and manipulate object files, examine their contents, and debug applications.
 * **Debian-based distributions:** `sudo apt-get install binutils`
 * **RPM-based distributions:** `sudo yum install binutils`
+
+### gcc (GNU Compiler Collection)
+`gcc` is a compiler suite that includes front-ends for C, C++, Objective-C, Fortran, Ada, Go, and Java, as well as libraries and development tools (like binutils and gdb). GCC is widely used for developing software on Unix-like operating systems, including Linux, macOS, and FreeBSD.
+* **Debian, Ubuntu, Linux Mint:** `sudo apt install gcc`
+* **RHEL, Fedora, AlmaLinux:** `sudo dnf install gcc`
+* **Arch, Manjaro, EndeavourOS:** `sudo pacman -S gcc`
