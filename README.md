@@ -10,7 +10,7 @@ To get the most out of this tutorial, you should already have a basic understand
 2. [The `exit` system call](chapters/2_exit_codes/README.md)
 3. [Hello world](chapters/3_hello_world/README.md)
 4. [Calling from C](chapters/4_calling_from_c/README.md)
-5. Registers :x:
+5. [Registers](chapters/5_registers/README.md)
 6. Machine code :x:
 7. Basic Arithmetic :x:
 8. Labels and Unconditional Jumps :x:
