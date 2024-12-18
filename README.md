@@ -1,5 +1,9 @@
 # Full x64 Assembly Course
-In this tutorial will you learn how to write 64-bit assembly. Most of what you learn in this tutorial will also be able to be used for 32-bit. This tutorial is Linux only but you can use WSL or Cygwin on Windows. You will also need to know the basics of a compiled language like C/C++ or Rust.
+In this comprehensive tutorial, you will learn the fundamentals of writing 64-bit assembly language, an essential skill for understanding low-level programming and computer architecture. While the primary focus is on 64-bit assembly, much of the knowledge and techniques discussed here can also be applied to 32-bit systems, making this tutorial versatile for various use cases.
+
+This tutorial is specifically tailored for Linux-based environments, ensuring you gain hands-on experience with tools and practices common to this platform. However, if you are using Windows, you can follow along by setting up a Linux-like environment through WSL (Windows Subsystem for Linux) or Cygwin.
+
+To get the most out of this tutorial, you should already have a basic understanding of a compiled programming language such as C, C++, or Rust. These languages will provide a foundation for grasping the concepts and syntax of assembly language, as they share many underlying principles. By the end of this tutorial, you will have a solid understanding of 64-bit assembly and be able to apply it effectively in your projects.
 
 ## Chapters
 1. [Installation](chapters/1_installation/README.md)
